@@ -14,5 +14,5 @@ if ((a <= x && b <= y) || (a <= y && b <= x) || (a <= x && c <= y) || (a <= y &&
     Console.WriteLine("кирпич пройдёт");
 } else
 {
-    Console.WriteLine("кирпич не проёдут благаду 27 года 19 века");
+    Console.WriteLine("кирпич не пройдёт");
 }
